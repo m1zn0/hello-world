@@ -1,3 +1,4 @@
 # hello-world
-My First Repository\\
-Mu name is Mizuno Miwa
+My First Repository
+My name is Mizuno Miwa.
+I like sushi.
